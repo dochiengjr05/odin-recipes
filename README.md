@@ -1,2 +1,3 @@
-# odin-recipes
-A repository to help me understand the concepts I have learnt on HTML
+# Odin Recipes
+
+- This allows me to practice basic HTML syntax
